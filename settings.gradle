@@ -1,0 +1,2 @@
+rootProject.name='kta'
+include ':app'
